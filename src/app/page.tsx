@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import Image from 'next/image'
-import SearchBar from '../components/SearchBar';
 import Navbar from "@/components/Navbar"
 import Footer from "@/components/Footer"
 
