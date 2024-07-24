@@ -19,7 +19,8 @@ export default function Home() {
             <div className="text-center mt-10 lg:w-2/3 w-full">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-zinc-200">Welcome to goget Package Manager</h1>
               <p className="mb-8 text-zinc-300 leading-relaxed">
-                GoGet is an open-source command-line tool for managing Go packages. It simplifies the process of installing, updating, and removing packages with easy-to-use commands. Developed by <a className='text-sky-500' href="https://xanmoy.me">Xanmoy</a>
+                GoGet is an open-source command-line tool for managing Go packages. It simplifies the process of installing, updating, and removing packages with easy-to-use commands.
+                Developed by <a className='text-sky-500' href="https://xanmoy.me">Xanmoy</a>
               </p>
               <div className="flex justify-center">
                 <button className="inline-flex text-white bg-sky-500 border-0 py-2 lg:px-6 px-3 focus:outline-none hover:bg-sky-600 rounded text-lg"><Link href="/docs">

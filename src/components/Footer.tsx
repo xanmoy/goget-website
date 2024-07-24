@@ -17,7 +17,7 @@ export default function Navbar() {
             <span className="text-2xl font-semibold whitespace-nowrap dark:text-white">GoGet</span>
           </a>
           */}
-                    <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 dark:text-gray-400">
+                    <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-400">
                         <li>
                             <a href="#" className="hover:underline mx-4 md:mx-6">About</a>
                         </li>
@@ -29,8 +29,8 @@ export default function Navbar() {
                         </li>
                     </ul>
                 </div>
-                <hr className="my-6 border-gray-200 dark:border-gray-700" />
-                <span className="block text-sm text-gray-500 dark:text-gray-400 text-center">
+                <hr className="my-6 border-gray-700" />
+                <span className="block text-sm text-gray-400 text-center">
                     © 2024 <a href="/" className="hover:underline">Xanmoy</a>. All Rights Reserved.
                 </span>
             </div>
